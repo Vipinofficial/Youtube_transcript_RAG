@@ -6,3 +6,4 @@ langchain-core
 faiss-cpu
 tiktoken
 python-dotenv
+pytube
